@@ -1,0 +1,5 @@
+npm install -g create-react-app //pakiet instal
+ create-react-app name // instalacja w lokalizacji gdzie wywolujemy intalacja projektu
+
+npm start odpalenie
+
